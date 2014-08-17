@@ -1,0 +1,2 @@
+login= serveradmin
+passw= QNAmaJ2v

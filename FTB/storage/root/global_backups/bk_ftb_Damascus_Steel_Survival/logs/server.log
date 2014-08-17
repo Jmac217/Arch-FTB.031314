@@ -1,0 +1,39 @@
+2014-01-28 14:34:30 [INFO] Starting minecraft server version 1.6.4
+2014-01-28 14:35:07 [INFO] Loading properties
+2014-01-28 14:35:07 [INFO] Default game type: SURVIVAL
+2014-01-28 14:35:07 [INFO] Generating keypair
+2014-01-28 14:35:08 [INFO] Starting Minecraft server on *:25565
+2014-01-28 14:35:13 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 14:35:24 [INFO] Preparing level "Damascus_Steel_Survival"
+2014-01-28 14:35:26 [INFO] Preparing start region for level 0
+2014-01-28 14:35:29 [INFO] Preparing spawn area: 53%
+2014-01-28 14:35:29 [INFO] Done (5.136s)! For help, type "help" or "?"
+2014-01-28 14:35:29 [INFO] Starting GS4 status listener
+2014-01-28 14:35:29 [INFO] Query running on 0.0.0.0:25565
+2014-01-28 14:35:31 [INFO] /162.243.107.28:56678 lost connection
+2014-01-28 15:42:40 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 15:42:40 [INFO] /162.243.107.28:56891 lost connection
+2014-01-28 16:52:21 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 16:52:21 [INFO] /162.243.107.28:57106 lost connection
+2014-01-28 19:04:50 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 19:04:50 [INFO] /162.243.107.28:57513 lost connection
+2014-01-28 19:06:25 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 19:06:25 [INFO] /162.243.107.28:57519 lost connection
+2014-01-28 19:23:01 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 19:23:01 [INFO] /162.243.107.28:57571 lost connection
+2014-01-28 21:56:59 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 21:57:00 [INFO] /162.243.107.28:58044 lost connection
+2014-01-28 22:26:10 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 22:26:10 [INFO] /162.243.107.28:58134 lost connection
+2014-01-28 23:05:41 [INFO] Stopping the server
+2014-01-28 23:05:41 [INFO] Stopping server
+2014-01-28 23:05:41 [INFO] Saving players
+2014-01-28 23:05:41 [INFO] Saving worlds
+2014-01-28 23:05:41 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/Overworld
+2014-01-28 23:05:41 [INFO] Closing listening thread
+2014-01-28 23:05:41 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/Nether
+2014-01-28 23:05:41 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/Wyvern Lair
+2014-01-28 23:05:41 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/The Moo Moo Farm
+2014-01-28 23:05:42 [INFO] Stopping server
+2014-01-28 23:05:42 [INFO] Saving players
+2014-01-28 23:05:42 [INFO] Saving worlds

@@ -1,0 +1,5 @@
+#!/bin/bash
+mv *.log ./logs
+mv *.lck ./logs/locks
+mv *.1 ./logs/other
+

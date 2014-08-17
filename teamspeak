@@ -1,0 +1,1 @@
+sudo /bin/bash -l -c "/usr/bin/teamspeak3-server logpath=/var/log/teamspeak3-server/ dbsqlpath=/usr/share/teamspeak3-server/sql/" teamspeak

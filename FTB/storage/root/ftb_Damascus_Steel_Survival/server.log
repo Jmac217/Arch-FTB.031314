@@ -1,0 +1,269 @@
+2014-01-28 17:46:37 [INFO] Starting minecraft server version 1.6.4
+2014-01-28 17:47:19 [INFO] Loading properties
+2014-01-28 17:47:19 [INFO] Default game type: SURVIVAL
+2014-01-28 17:47:19 [INFO] Generating keypair
+2014-01-28 17:47:20 [INFO] Starting Minecraft server on *:25565
+2014-01-28 17:47:37 [INFO] Preparing level "Damascus_Steel_Survival"
+2014-01-28 17:47:39 [INFO] Preparing start region for level 0
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:47:39 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Snail
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Snail
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:47:40 [INFO] Preparing spawn area: 55%
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Snail
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Snail
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Bee
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:47:40 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:47:40 [INFO] Done (4.028s)! For help, type "help" or "?"
+2014-01-28 17:47:40 [INFO] Starting GS4 status listener
+2014-01-28 17:47:41 [INFO] Query running on 0.0.0.0:25565
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:47:43 [WARNING] Skipping Entity with id MoCreatures.SilverSkeleton
+2014-01-28 17:47:44 [WARNING] Skipping Entity with id MoCreatures.Piranha
+2014-01-28 17:48:36 [SEVERE] Reached end of stream for /173.18.29.255
+2014-01-28 17:48:41 [INFO] jmac217[/173.18.29.255:45459] logged in with entity id 396 at (-272.5, 65.1, -42.5)
+2014-01-28 17:48:42 [INFO] jmac217 joined the game
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Shark
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Shark
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.MediumFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.ButterFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.ButterFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.MediumFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Ray
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.JellyFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.JellyFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.JellyFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.SmallFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.SmallFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.JellyFish
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:42 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Rat
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Rat
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Maggot
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Maggot
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Maggot
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Maggot
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Werewolf
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.ButterFly
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.WildHorse
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.WildHorse
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.WildHorse
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.WildHorse
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.SilverSkeleton
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.FlameWraith
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Rat
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Rat
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.WWolf
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.HorseMob
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ogre
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ogre
+2014-01-28 17:48:43 [WARNING] Skipping Entity with id MoCreatures.Ogre
+2014-01-28 17:48:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Piranha
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:49:00 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:49:24 [INFO] [jmac217: Changing to clear weather]
+2014-01-28 17:49:46 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 17:49:47 [SEVERE] Reached end of stream for /24.100.9.32
+2014-01-28 17:49:54 [INFO] Jack9200[/24.100.9.32:49369] logged in with entity id 3209 at (-211.01567258721695, 140.0, -21.46262480043332)
+2014-01-28 17:49:54 [INFO] Jack9200 joined the game
+2014-01-28 17:49:54 [WARNING] Skipping Entity with id MoCreatures.MiniGolem
+2014-01-28 17:49:54 [WARNING] Skipping Entity with id MoCreatures.WWolf
+2014-01-28 17:49:54 [WARNING] Skipping Entity with id MoCreatures.SilverSkeleton
+2014-01-28 17:52:08 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 17:52:08 [INFO] /162.243.107.28:58299 lost connection
+2014-01-28 17:52:36 [WARNING] Skipping Entity with id MoCreatures.ButterFly
+2014-01-28 17:52:36 [WARNING] Skipping Entity with id MoCreatures.ButterFly
+2014-01-28 17:57:41 [WARNING] Skipping Entity with id MoCreatures.MediumFish
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Piranha
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Piranha
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Piranha
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Cricket
+2014-01-28 17:59:39 [WARNING] Skipping Entity with id MoCreatures.Fly
+2014-01-28 18:00:02 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 18:03:59 [WARNING] Skipping Entity with id MoCreatures.Shark
+2014-01-28 18:13:13 [INFO] [jmac217: Played sound 'thunder' to jmac217]
+2014-01-28 18:15:02 [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:674)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:276)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:587)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 9
+	at tconstruct.library.blocks.InventoryLogic.func_70301_a(InventoryLogic.java:41)
+	at net.minecraft.inventory.Slot.func_75211_c(Slot.java:91)
+	at net.minecraft.inventory.Container.func_75142_b(SourceFile:76)
+	at tconstruct.inventory.SmelteryContainer.func_75142_b(SmelteryContainer.java:85)
+	at net.minecraft.entity.player.EntityPlayerMP.func_70071_h_(EntityPlayerMP.java:251)
+	at net.minecraft.world.World.func_72866_a(World.java:2350)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:719)
+	at net.minecraft.world.World.func_72870_g(World.java:2311)
+	at net.minecraft.world.World.func_72939_s(World.java:2157)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:550)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:668)
+	... 4 more
+2014-01-28 18:15:02 [SEVERE] This crash report has been saved to: /home/minecraft/FTB/root/ftb_Damascus_Steel_Survival/./crash-reports/crash-2014-01-28_18.15.02-server.txt
+2014-01-28 18:15:32 [SEVERE] Reached end of stream for /173.18.29.255
+2014-01-28 18:15:41 [SEVERE] Reached end of stream for /173.18.29.255
+2014-01-28 18:15:46 [INFO] Stopping server
+2014-01-28 18:15:46 [INFO] Saving players
+2014-01-28 18:15:46 [INFO] Closing listening thread
+2014-01-28 18:16:03 [INFO] Starting minecraft server version 1.6.4
+2014-01-28 18:16:44 [INFO] Loading properties
+2014-01-28 18:16:44 [INFO] Default game type: SURVIVAL
+2014-01-28 18:16:44 [INFO] Generating keypair
+2014-01-28 18:16:44 [INFO] Starting Minecraft server on *:25565
+2014-01-28 18:17:00 [INFO] Preparing level "Damascus_Steel_Survival"
+2014-01-28 18:17:01 [INFO] Preparing start region for level 0
+2014-01-28 18:17:02 [INFO] Done (1.906s)! For help, type "help" or "?"
+2014-01-28 18:17:02 [INFO] Starting GS4 status listener
+2014-01-28 18:17:02 [INFO] Query running on 0.0.0.0:25565
+2014-01-28 18:17:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-01-28 18:18:12 [INFO] jmac217[/173.18.29.255:45569] logged in with entity id 375 at (-284.9359959311744, 77.0, -67.27471835385275)
+2014-01-28 18:18:12 [INFO] jmac217 joined the game
+2014-01-28 18:19:06 [SEVERE] Reached end of stream for /24.100.9.32
+2014-01-28 18:19:15 [INFO] Jack9200[/24.100.9.32:49460] logged in with entity id 2879 at (-284.9379233072505, 77.0, -71.3554163862617)
+2014-01-28 18:19:15 [INFO] Jack9200 joined the game
+2014-01-28 18:24:37 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 18:27:16 [INFO] [jmac217: Cleared the inventory of jmac217, removing 107 items]
+2014-01-28 18:49:03 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 18:49:03 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 18:49:25 [WARNING] Skipping Entity with id MoCreatures.Firefly
+2014-01-28 18:50:51 [INFO] [jmac217: Changing to clear weather]
+2014-01-28 18:52:27 [INFO] [jmac217: Set the time to 12500 in dimension 0]
+2014-01-28 18:52:31 [INFO] [jmac217: Added 1000 to the time in dimension 0]
+2014-01-28 18:59:05 [WARNING] Jack9200 moved wrongly!
+2014-01-28 18:59:37 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 18:59:37 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 18:59:37 [WARNING] Skipping Entity with id MoCreatures.DragonFly
+2014-01-28 18:59:37 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 19:00:40 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 19:02:07 [INFO] [jmac217: Changing to clear weather]
+2014-01-28 19:03:22 [WARNING] Skipping Entity with id MoCreatures.Ant
+2014-01-28 19:05:40 [INFO] jmac217 lost connection: disconnect.quitting
+2014-01-28 19:05:40 [INFO] jmac217 left the game
+2014-01-28 19:13:50 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 19:13:50 [INFO] /162.243.107.28:58569 lost connection
+2014-01-28 19:19:03 [INFO] Jack9200 lost connection: disconnect.quitting
+2014-01-28 19:19:03 [INFO] Jack9200 left the game
+2014-01-28 20:20:32 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 20:20:32 [INFO] /162.243.107.28:58775 lost connection
+2014-01-28 20:22:45 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-28 20:22:46 [INFO] /162.243.107.28:58783 lost connection
+2014-01-28 21:04:30 [SEVERE] Reached end of stream for /24.100.9.32
+2014-01-28 21:04:41 [INFO] Jack9200[/24.100.9.32:51307] logged in with entity id 106874 at (-287.11903205068273, 70.0, -70.41230517508909)
+2014-01-28 21:04:41 [INFO] Jack9200 joined the game
+2014-01-28 22:05:36 [INFO] [Server] anyone there?
+2014-01-28 22:05:45 [INFO] [Server] jack9200 are you online?
+2014-01-28 22:05:54 [INFO] [Server] this is the server speaking
+2014-01-28 22:06:09 [INFO] [Server] the NSA is watching you
+2014-01-28 22:08:28 [SEVERE] Reached end of stream for /173.18.29.255
+2014-01-28 22:08:34 [INFO] jmac217[/173.18.29.255:48705] logged in with entity id 731406 at (-234.77857675722754, 101.0, -108.54714167218953)
+2014-01-28 22:08:34 [INFO] jmac217 joined the game
+2014-01-28 22:09:32 [INFO] [jmac217: Teleported jmac217 to Jack9200]
+2014-01-28 22:17:37 [INFO] [jmac217: Teleported jmac217 to Jack9200]
+2014-01-28 22:21:15 [INFO] [jmac217: Changing to clear weather]
+2014-01-28 22:21:34 [INFO] jmac217 fell from a high place
+2014-01-28 22:26:13 [INFO] jmac217 lost connection: disconnect.quitting
+2014-01-28 22:26:13 [INFO] jmac217 left the game
+2014-01-28 23:08:10 [INFO] Jack9200 lost connection: disconnect.quitting
+2014-01-28 23:08:10 [INFO] Jack9200 left the game
+2014-01-29 01:38:58 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 01:38:58 [INFO] /162.243.107.28:59755 lost connection
+2014-01-29 01:52:10 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 01:52:10 [INFO] /162.243.107.28:59797 lost connection
+2014-01-29 05:37:20 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 05:37:20 [INFO] /162.243.107.28:60488 lost connection
+2014-01-29 05:37:20 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 05:37:20 [INFO] /162.243.107.28:60489 lost connection
+2014-01-29 06:13:55 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 06:13:55 [INFO] /162.243.107.28:60602 lost connection
+2014-01-29 06:58:23 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 06:58:23 [INFO] /162.243.107.28:60740 lost connection
+2014-01-29 10:51:59 [SEVERE] Reached end of stream for /162.243.107.28
+2014-01-29 10:51:59 [INFO] /162.243.107.28:33224 lost connection
+2014-01-29 11:01:19 [INFO] Stopping the server
+2014-01-29 11:01:19 [INFO] Stopping server
+2014-01-29 11:01:19 [INFO] Saving players
+2014-01-29 11:01:19 [INFO] Saving worlds
+2014-01-29 11:01:19 [INFO] Closing listening thread
+2014-01-29 11:01:19 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/Overworld
+2014-01-29 11:01:19 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/Nether
+2014-01-29 11:01:19 [INFO] Saving chunks for level 'Damascus_Steel_Survival'/The Moo Moo Farm
+2014-01-29 11:01:19 [INFO] Stopping server
+2014-01-29 11:01:19 [INFO] Saving players
+2014-01-29 11:01:19 [INFO] Saving worlds

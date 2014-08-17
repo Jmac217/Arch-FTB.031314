@@ -1,0 +1,24 @@
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.49.965 for Minecraft 1.6.4 loading
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Java is OpenJDK 64-Bit Server VM, version 1.7.0_51, running on Linux:amd64:3.8.4-1-ARCH, installed at /usr/lib/jvm/java-7-openjdk/jre
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Java classpath at launch is ftb_Damascus_Steel_Survival/FTBServer-1.6.4-965.jar
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Java library path at launch is /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Discovering coremods
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-01-28 17:27:30 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+2014-01-28 17:27:30 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2014-01-28 17:27:30 [INFO] [STDOUT] Loaded 40 rules from AccessTransformer config file fml_at.cfg
+2014-01-28 17:27:30 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+2014-01-28 17:27:30 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Injection complete
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+2014-01-28 17:27:30 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin

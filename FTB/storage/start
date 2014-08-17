@@ -1,0 +1,3 @@
+#/bin/bash 
+#sudo java -Xmx1920M -XX:PermSize=128M -jar ftb_$1/FTBServer-1.6.4-965.jar nogui
+sudo java -Xmx1920M -XX:PermSize=128M -jar ftb_Damascus_Steel_Survival/FTBServer-1.6.4-965.jar nogui

@@ -1,0 +1,71 @@
+2014-02-01 22:42:59 [INFO] Starting minecraft server version 1.6.4
+2014-02-01 22:43:01 [INFO] Loading properties
+2014-02-01 22:43:01 [INFO] Default game type: SURVIVAL
+2014-02-01 22:43:01 [INFO] Generating keypair
+2014-02-01 22:43:02 [INFO] Starting Minecraft server on *:25565
+2014-02-01 22:43:02 [INFO] Preparing level "world"
+2014-02-01 22:43:03 [INFO] Preparing start region for level 0
+2014-02-01 22:43:04 [INFO] Preparing spawn area: 4%
+2014-02-01 22:43:05 [INFO] Preparing spawn area: 8%
+2014-02-01 22:43:06 [INFO] Preparing spawn area: 17%
+2014-02-01 22:43:07 [INFO] Preparing spawn area: 29%
+2014-02-01 22:43:08 [INFO] Preparing spawn area: 37%
+2014-02-01 22:43:09 [INFO] Preparing spawn area: 50%
+2014-02-01 22:43:10 [INFO] Preparing spawn area: 61%
+2014-02-01 22:43:11 [INFO] Preparing spawn area: 71%
+2014-02-01 22:43:12 [INFO] Preparing spawn area: 83%
+2014-02-01 22:43:13 [INFO] Preparing spawn area: 97%
+2014-02-01 22:43:14 [INFO] Done (11.214s)! For help, type "help" or "?"
+2014-02-01 22:43:21 [SEVERE] Reached end of stream for /173.18.29.255
+2014-02-01 22:43:23 [INFO] jmac217[/173.18.29.255:54805] logged in with entity id 2468 at (229.5, 69.0, 151.5)
+2014-02-01 22:43:23 [SEVERE] Reached end of stream for /173.18.29.255
+2014-02-01 22:43:24 [INFO] jmac217 joined the game
+2014-02-01 22:43:24 [INFO] jmac217 lost connection: disconnect.endOfStream
+2014-02-01 22:43:24 [INFO] jmac217 left the game
+2014-02-01 22:43:24 [INFO] jmac217 lost connection: disconnect.endOfStream
+2014-02-01 22:43:24 [INFO] jmac217 left the game
+2014-02-01 22:43:55 [INFO] Stopping the server
+2014-02-01 22:43:55 [INFO] Stopping server
+2014-02-01 22:43:55 [INFO] Saving players
+2014-02-01 22:43:55 [INFO] Saving worlds
+2014-02-01 22:43:55 [INFO] Saving chunks for level 'world'/Overworld
+2014-02-01 22:43:55 [INFO] Closing listening thread
+2014-02-01 22:43:56 [INFO] Saving chunks for level 'world'/Nether
+2014-02-01 22:43:56 [INFO] Saving chunks for level 'world'/The End
+2014-02-07 03:33:34 [INFO] Starting minecraft server version 1.6.4
+2014-02-07 03:33:37 [INFO] Loading properties
+2014-02-07 03:33:38 [INFO] Default game type: SURVIVAL
+2014-02-07 03:33:38 [INFO] Generating keypair
+2014-02-07 03:33:38 [INFO] Starting Minecraft server on *:25565
+2014-02-07 03:33:39 [INFO] Preparing level "world"
+2014-02-07 03:33:40 [INFO] Preparing start region for level 0
+2014-02-07 03:33:41 [INFO] Preparing spawn area: 70%
+2014-02-07 03:33:41 [INFO] Done (2.184s)! For help, type "help" or "?"
+2014-02-07 03:37:32 [SEVERE] Reached end of stream for /173.18.29.255
+2014-02-07 03:37:45 [INFO] Stopping the server
+2014-02-07 03:37:45 [INFO] Stopping server
+2014-02-07 03:37:45 [INFO] Saving players
+2014-02-07 03:37:45 [INFO] Saving worlds
+2014-02-07 03:37:45 [INFO] Saving chunks for level 'world'/Overworld
+2014-02-07 03:37:45 [INFO] Closing listening thread
+2014-02-07 03:37:45 [INFO] Saving chunks for level 'world'/Nether
+2014-02-07 03:37:45 [INFO] Saving chunks for level 'world'/The End
+2014-02-07 03:37:46 [INFO] Stopping server
+2014-02-07 03:41:26 [INFO] Starting minecraft server version 1.6.4
+2014-02-07 03:41:28 [INFO] Loading properties
+2014-02-07 03:41:28 [INFO] Default game type: SURVIVAL
+2014-02-07 03:41:28 [INFO] Generating keypair
+2014-02-07 03:41:29 [INFO] Starting Minecraft server on *:25565
+2014-02-07 03:41:29 [INFO] Preparing level "world"
+2014-02-07 03:41:30 [INFO] Preparing start region for level 0
+2014-02-07 03:41:31 [INFO] Preparing spawn area: 73%
+2014-02-07 03:41:31 [INFO] Done (1.761s)! For help, type "help" or "?"
+2014-02-07 03:41:48 [INFO] Stopping the server
+2014-02-07 03:41:48 [INFO] Stopping server
+2014-02-07 03:41:48 [INFO] Closing listening thread
+2014-02-07 03:41:48 [INFO] Saving players
+2014-02-07 03:41:48 [INFO] Saving worlds
+2014-02-07 03:41:48 [INFO] Saving chunks for level 'world'/Overworld
+2014-02-07 03:41:48 [INFO] Saving chunks for level 'world'/Nether
+2014-02-07 03:41:48 [INFO] Saving chunks for level 'world'/The End
+2014-02-07 03:41:49 [INFO] Stopping server
